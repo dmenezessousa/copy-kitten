@@ -1,0 +1,24 @@
+#button{
+    padding: 20px;
+    background-color:#3386C0;
+    font-size: 24px;
+    color: white;
+    border-radius: 10px;
+    border-color: #1F5275;
+    border: solid #1F5275  5px ;
+    border-top: 0px;
+    border-left: 0;
+    border-right: 0;
+    display: flex;
+    justify-content: center;
+    margin-right: 30vw;
+    margin-left: 30vw;
+    border-style: solid;
+    text-decoration: none;
+}
+#button:hover{
+    background-color: #3EA1E8;
+    color: white;
+    border-bottom: 0;
+
+}
